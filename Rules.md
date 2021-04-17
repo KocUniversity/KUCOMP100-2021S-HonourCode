@@ -14,7 +14,7 @@
 
 8.	No questions to the TAs! Please raise your hand virtually and you will be directed to a breakout room with the instructor.
 
-9. You will have (45x3 + 15x2) minutes in the exam, meaning 45 minutes for each question and 15 minutes break in between questions. 
+9. There are 3 questions in the exam. You will have (45x3 + 15x2) minutes in the exam, meaning 45 minutes for each question and 15 minutes break in between questions. 
 
 10. You will receive an email from us with the link to accept the assignment at the beginning of an hour, i.e. at 12:00, 13:00, and 14:00. Please check your email when we notify you on zoom and start working on the question. Do not forget to commit and push your repl before the deadline, i.e. at 12:45, 13:45, and 14:45. It is your responsibility to commit **before the deadline**. Late commits will not be accepted.
 
